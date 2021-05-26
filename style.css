@@ -1,0 +1,101 @@
+#h2{
+    text-align: left;
+}
+#header{
+    text-align: center;
+}
+#header :hover{
+        background-color: rgba(134, 171, 240, 0.603);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(192, 192, 192)61;
+}
+#nav{
+    text-align: center;
+    
+    margin-bottom: 24px;
+}
+#nav .link{
+    padding: 24px;
+}
+#nav .link:hover{
+    background-color: rgba(134, 171, 240, 0.603);
+} 
+.Hunde{
+    width: 600px; 
+    height: 600px; 
+    margin: 4em auto;
+    border:1px solid rgb(224, 164, 96);
+}
+.Hunde img{
+    object-fit: cover; 
+    width: 100%; 
+    height: 100%;
+    
+}
+.title{
+    width: 600px; 
+    height: 600px; 
+    margin: 4em auto;
+    border:1px solid rgb(224, 164, 96);
+}
+.title img{
+    object-fit: cover; 
+        width: 100%; 
+        height: 100%;
+}
+.hosted_button_id{
+    padding-top: 50px;
+}
+
+ table, td, th {
+        border: 1px solid black;
+      }
+      
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+
+    .vogel { 
+        width: 600px; 
+        height: 600px; 
+        margin: 4em auto;
+        border:1px solid rgb(96, 224, 96);
+    }
+    .vogel img { 
+        object-fit: cover; 
+        width: 100%; 
+        height: 100%;
+    }
+    .eule {
+        width: 600px; 
+        height: 600px; 
+        margin: 4em auto;
+        margin-bottom: 16em;
+        border:1px solid rgb(8, 44, 8);
+    }
+    .eule img{
+        object-fit: cover; 
+        width: 100%; 
+        height: 100%;
+    }
+    .zvohel{
+        width: 600px; 
+        height: 600px; 
+        margin: 4em auto;
+        border:1px solid rgb(89, 141, 89);
+    }
+    .zvohel img{
+        object-fit: cover; 
+        width: 100%; 
+        height: 100%;
+    }
+
+
+#footer{
+    text-align: right;
+}
